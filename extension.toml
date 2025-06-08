@@ -10,6 +10,11 @@ icon_themes = []
 languages = []
 capabilities = []
 
+# Find the right alphabetical spot and add:
+[spai-zero-theme]
+submodule = "extensions/spai-zero-theme"
+version = "0.1.0"
+
 [lib]
 
 [grammars]
