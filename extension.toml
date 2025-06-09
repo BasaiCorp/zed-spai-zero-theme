@@ -5,7 +5,10 @@ schema_version = 1
 description = "A sleek dark theme with cyan accents and modern styling"
 repository = "https://github.com/BasaiCorp/zed-spai-zero-theme"
 authors = ["Prathmesh </> (Prathmesh Barot) <prathmeshbarot@gmail.com>"]
-themes = ["themes/spai-zero.json"]
+themes = [
+    "themes/spai-zero-dark-gray.json",
+    "themes/spai-zero-midnight-blue.json",
+]
 icon_themes = []
 languages = []
 capabilities = []
